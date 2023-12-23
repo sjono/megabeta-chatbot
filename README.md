@@ -1,13 +1,15 @@
 # megabeta-chatbot
 Climbing training chatbot based on Jono Megabeta short video scripts
 
+![Chatbot Climber](./chatbot_climber.jpg)
+
 Uses stored data in JSON files to answer questions using OpenAI GPT4
 
 Files not included here:
 
   - data/
   
-  - __pycache__
+  - pycache
   
   - package-lcok.json
   
