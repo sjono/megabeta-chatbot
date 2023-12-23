@@ -1,9 +1,10 @@
 # megabeta-chatbot
-Climbing training chatbot based on Jono Megabeta short video scripts
-
-![Chatbot Climber](./chatbot_climber.jpg)
+Description: Climbing training chatbot based on [Jono Megabeta short video](https://www.instagram.com/jono.megabeta) scripts
 
 Uses stored data in JSON files to answer questions using OpenAI GPT4
+
+![Chatbot Concept Demo](./climber_app_demo.jpg)
+
 
 Files not included here:
 
